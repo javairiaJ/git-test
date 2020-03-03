@@ -1,0 +1,5 @@
+/nbproject
+/laravel/vendor/
+/laravel/storage/
+/laravel/.env
+/sql/

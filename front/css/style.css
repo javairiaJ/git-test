@@ -1,0 +1,22 @@
+.user-image{
+    width: 35px;
+    height: 35px;
+    margin-top: -7px;
+}
+.user-menu>.dropdown-menu>li.user-header>img {
+    z-index: 5;
+    height: 90px;
+    width: 90px;
+    border: 3px solid;
+    border-color: transparent;
+    border-color: rgba(255,255,255,0.2);
+}
+.user-menu .dropdown-menu li {
+    padding: 0px 12px !important;
+    text-align: left;
+    color: #222;
+    font-weight: 400;
+    font-size: 13px;
+    background: #fff !important;
+}
+.
